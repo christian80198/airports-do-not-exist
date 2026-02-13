@@ -1,0 +1,10 @@
+{
+  "name": "airports do not exist",
+  "description": "Adds music to the background of your Steam Deck/Big Picture. All credits go to Tanger and the song was found on SoundCloud,",
+  "author": "christian80198",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
